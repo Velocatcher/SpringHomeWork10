@@ -1,4 +1,4 @@
-package com.github.yuliyaks.aspects;
+package com.github.velocatcher.aspects;
 
 import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.annotation.Aspect;

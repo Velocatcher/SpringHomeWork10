@@ -1,4 +1,4 @@
-package com.github.yuliyaks.model;
+package com.github.velocatcher.model;
 
 import jakarta.persistence.*;
 import lombok.Data;

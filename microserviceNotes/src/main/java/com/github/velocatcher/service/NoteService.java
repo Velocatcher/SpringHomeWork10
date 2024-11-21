@@ -1,6 +1,6 @@
-package com.github.yuliyaks.service;
+package com.github.velocatcher.service;
 
-import com.github.yuliyaks.model.Note;
+import com.github.velocatcher.model.Note;
 
 import java.util.List;
 

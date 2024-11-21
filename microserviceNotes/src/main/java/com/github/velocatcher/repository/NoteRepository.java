@@ -1,6 +1,6 @@
-package com.github.yuliyaks.repository;
+package com.github.velocatcher.repository;
 
-import com.github.yuliyaks.model.Note;
+import com.github.velocatcher.model.Note;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

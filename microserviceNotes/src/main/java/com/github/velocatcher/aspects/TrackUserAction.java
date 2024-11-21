@@ -1,4 +1,4 @@
-package com.github.yuliyaks.aspects;
+package com.github.velocatcher.aspects;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

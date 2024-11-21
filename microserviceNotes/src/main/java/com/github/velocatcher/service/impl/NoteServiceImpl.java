@@ -1,10 +1,10 @@
-package com.github.yuliyaks.service.impl;
+package com.github.velocatcher.service.impl;
 
-import com.github.yuliyaks.aspects.TrackUserAction;
+import com.github.velocatcher.aspects.TrackUserAction;
 import lombok.RequiredArgsConstructor;
-import com.github.yuliyaks.repository.NoteRepository;
-import com.github.yuliyaks.model.Note;
-import com.github.yuliyaks.service.NoteService;
+import com.github.velocatcher.repository.NoteRepository;
+import com.github.velocatcher.model.Note;
+import com.github.velocatcher.service.NoteService;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDateTime;
