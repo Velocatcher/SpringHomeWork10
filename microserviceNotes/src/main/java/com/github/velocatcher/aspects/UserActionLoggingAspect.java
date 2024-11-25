@@ -17,7 +17,7 @@ public class UserActionLoggingAspect {
      * Зарегистрировать и пронумеровать действия пользователя
      * @param joinPoint
      */
-    @Before("@annotation(com.github.yuliyaks.aspects.TrackUserAction)")
+    @Before("@annotation(com.github.velocatcher.aspects.TrackUserAction)")
     public void logUserAction(JoinPoint joinPoint) {
         String methodName = joinPoint.getSignature().getName(); // Название метода, который вызывается
         String className = joinPoint.getTarget().getClass().getSimpleName(); // Название класса, метод которого вызывается

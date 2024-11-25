@@ -1,0 +1,8 @@
+D:\GB\JAVA_NEW\SPRING\HW9_1\microserviceNotes\src\main\java\com\github\velocatcher\aspects\UserActionLoggingAspect.java
+D:\GB\JAVA_NEW\SPRING\HW9_1\microserviceNotes\src\main\java\com\github\velocatcher\MicroserviceNotesApplication.java
+D:\GB\JAVA_NEW\SPRING\HW9_1\microserviceNotes\src\main\java\com\github\velocatcher\aspects\TrackUserAction.java
+D:\GB\JAVA_NEW\SPRING\HW9_1\microserviceNotes\src\main\java\com\github\velocatcher\controller\NoteController.java
+D:\GB\JAVA_NEW\SPRING\HW9_1\microserviceNotes\src\main\java\com\github\velocatcher\service\NoteService.java
+D:\GB\JAVA_NEW\SPRING\HW9_1\microserviceNotes\src\main\java\com\github\velocatcher\repository\NoteRepository.java
+D:\GB\JAVA_NEW\SPRING\HW9_1\microserviceNotes\src\main\java\com\github\velocatcher\service\impl\NoteServiceImpl.java
+D:\GB\JAVA_NEW\SPRING\HW9_1\microserviceNotes\src\main\java\com\github\velocatcher\model\Note.java

@@ -1,0 +1,8 @@
+com\github\velocatcher\model\Note.class
+com\github\velocatcher\MicroserviceNotesApplication.class
+com\github\velocatcher\controller\NoteController.class
+com\github\velocatcher\repository\NoteRepository.class
+com\github\velocatcher\aspects\TrackUserAction.class
+com\github\velocatcher\service\NoteService.class
+com\github\velocatcher\aspects\UserActionLoggingAspect.class
+com\github\velocatcher\service\impl\NoteServiceImpl.class

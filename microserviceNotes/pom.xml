@@ -9,11 +9,14 @@
         <version>3.2.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.github.yuliyaks</groupId>
+
+    <groupId>com.github.velocatcher</groupId>
     <artifactId>microserviceNotes</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>homeworkNotes</name>
-    <description>Project for Spring Data, Lombok</description>
+    <name>microserviceNotes</name>
+    <description>microserviceNotes</description>
+
+
     <properties>
         <java.version>17</java.version>
         <spring-cloud.version>2023.0.0</spring-cloud.version>
